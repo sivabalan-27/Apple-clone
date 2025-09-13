@@ -1,4 +1,4 @@
-import iphones from "iphone_17_colours.webp"
+import iphones from "../images/iphone_17_colours.webp";
 function product(){
     return(
         <div className="mt-5 text-center bg-gray-50">
