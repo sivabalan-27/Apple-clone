@@ -10,7 +10,7 @@ function Header() {
             <button className="text-white bg-blue-600 w-28 py-2 px-3 rounded-3xl hover:bg-blue-700">Learn More</button>
             <button className="text-blue-600 w-28 py-2 rounded-3xl border-2 border-blue-400 hover:bg-blue-600 hover:text-white">Pre-Order</button>
             </div>
-            <img src="src\images\iphone-17-air.jpg" alt="" className="inline-block w-full" />
+            <img src={iphone17Air} alt="" className="inline-block w-full" />
         </div>
   );
 }
